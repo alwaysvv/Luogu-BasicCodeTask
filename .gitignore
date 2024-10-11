@@ -26,10 +26,9 @@
 *.a
 *.lib
 
-# C++:
+# C++ Executables
 *.exe
 
-# Executables
-*.exe
+# Other Executables
 *.out
 *.app
